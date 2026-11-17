@@ -1,0 +1,24 @@
+---
+title: "Practice Assignment 1 - R Markdown"
+author: "Daniela Szpejna"
+date: "2026-11-17"
+output: html_document
+---
+## Introduction
+
+This R Markdown document is part of Practice Assignment 1 for the ST2195 Programming for Data Science course.
+
+The purpose of this exercise is to print all integers from 1 to 10 using R.
+
+## R Code
+
+The following R code prints the integers from 1 to 10.
+
+```{r}
+# Print integers from 1 to 10
+print(1:10)
+```
+
+## Conclusion
+
+The code successfully prints all integers from 1 to 10.
